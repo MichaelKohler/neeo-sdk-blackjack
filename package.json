@@ -9,6 +9,7 @@
   "author": "Michael Kohler",
   "license": "MIT",
   "dependencies": {
+    "neeo-sdk": "^0.45.7",
     "prompt": "^1.0.0"
   }
 }
